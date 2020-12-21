@@ -18,6 +18,26 @@
   </url>
   
   <url>
+    <loc>/tags/arch.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/archlinux.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/archpackage.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aur.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/bio.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
@@ -33,16 +53,22 @@
   </url>
   
   <url>
+    <loc>/tags/linux.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/software.html</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories.html</loc>
+    <loc>/tags.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags.html</loc>
+    <loc>/categories.html</loc>
   </url>
   
 </urlset>
