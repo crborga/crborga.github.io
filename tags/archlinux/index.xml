@@ -7,18 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to install a package AUR in Arch Linux (the manual way)</title>
+      <title>How to install a AUR package in Arch Linux (the manual way)</title>
       <link>/posts/aur.html</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/aur.html</guid>
       <description>Go to https://aur.archlinux.org/packages/
-    Copy the line the aur package.
+    Copy the line from the AUR package you have want.
     Open up you linux terminal. (ex: Xterm, gnome-terminal)
     Input that address you copied in Step 2 into terminal.
     Change to package directory.
-    Make package and install in one step. (type root password when prompted)
-    Go up a directory and remove package build directory to clean up.</description>
+    Make package and install in one step. (type root password when prompted)</description>
     </item>
     
   </channel>
