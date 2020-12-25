@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/home.html</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts.html</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/arch.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/archlinux.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/archpackage.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aur.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bio.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/games.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/aur.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories.html</loc>
+  </url>
+  
+</urlset>

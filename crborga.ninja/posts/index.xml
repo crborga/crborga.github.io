@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Christopher Borga</title>
+    <link>/posts.html</link>
+    <description>Recent content in Posts on Christopher Borga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New website, new domain, almost a new year!</title>
+      <link>/posts/home.html</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/home.html</guid>
+      <description>Upcoming and Features Today is December 21, 2020! New website, new domain, almost a new year! Let&amp;rsquo;s get this show rolling!</description>
+    </item>
+    
+    <item>
+      <title>How to install a package AUR in Arch Linux (the manual way)</title>
+      <link>/posts/aur.html</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/aur.html</guid>
+      <description>Go to https://aur.archlinux.org/packages/
+    Copy the line the aur package.
+    Open up you linux terminal. (ex: Xterm, gnome-terminal)
+    Input that address you copied in Step 2 into terminal.
+    Change to package directory.
+    Make package and install in one step. (type root password when prompted)
+    Go up a directory and remove package build directory to clean up.</description>
+    </item>
+    
+  </channel>
+</rss>
