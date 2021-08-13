@@ -1,27 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christopher Borga</title>
+    <title>CR Borga</title>
     <link>/</link>
-    <description>Recent content on Christopher Borga</description>
+    <description>Recent content on CR Borga</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bio</title>
+      <link>/bio.html</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/bio.html</guid>
+      <description>To Whom It May Concern
+I have years of experience working with technology. The operating systems class I took in high school has had a big influence on my vision. In my personal life, I serve a group of clients that come to me for assistance with their technical devices. Almost everything I know about computer equipment has been learned from hands-on troubleshooting. I have extensive knowledge of the inner working of Microsoft Windows operating system.</description>
+    </item>
+    
+    <item>
+      <title>August 2021 Update</title>
+      <link>/posts/20210809.html</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/20210809.html</guid>
+      <description>Added more information about myself and updated email address.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>/software.html</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/software.html</guid>
+      <description>As far as browsers go Mozilla Firefox, I recommend Mozilla Firefox. There are allot of debates but Mozilla is more concerned about user privacy than Google. Pre-installed browsers like Edge and IE are often targeted because they are pre-installed with Windows.
+Nowadays, not many people still use a email client on there computer but if you Bluemail is pretty awesome. They support pretty much every email service there is and almost every platform.</description>
+    </item>
+    
     <item>
       <title>New website, new domain, almost a new year!</title>
       <link>/posts/home.html</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/home.html</guid>
-      <description>Upcoming and Features Today is December 21, 2020! New website, new domain, almost a new year! Let&amp;rsquo;s get this show rolling!</description>
-    </item>
-    
-    <item>
-      <title>Bio</title>
-      <link>/bio.html</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/bio.html</guid>
-      <description>Building websites and working on computers has been a hobby of mine for about 20 years now. My web design skills are limited but as you can see I am able to code them. I would like to attend college and further educate myself in web design and pursue certifications for IT work. In my free time I play computer games and experiment with various Linux distributions.</description>
+      <description>Today is December 21, 2020! New website, new domain, almost a new year! Let&amp;rsquo;s get this show rolling!</description>
     </item>
     
     <item>
@@ -45,16 +65,6 @@
     Input that address you copied in Step 2 into terminal.
     Change to package directory.
     Make package and install in one step. (type root password when prompted)</description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>/software.html</link>
-      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/software.html</guid>
-      <description>As far as browsers go Mozilla Firefox, I recommend Mozilla Firefox. There are allot of debates but Mozilla is more concerned about user privacy than Google. Pre-installed browsers like Edge and IE are often targetted because they are pre-installed with Windows.Check it out
-Nowadays, not many people still use a email client on there computer but if you Bluemail is pretty awesome. They support pretty much every email service there is and almost every platform.</description>
     </item>
     
   </channel>
