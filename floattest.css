@@ -555,15 +555,18 @@ html #app-mount .layer__2efaa .layer__2efaa  ~ .layer__2efaa  .sidebarRegion__60
   z-index: 2;
 }
 
-/* .sidebarRegionScroller__1fa7e {
+/* 
+.sidebarRegionScroller__1fa7e {
   position: absolute;
   height: 100%;
   left: calc(100% - var(--sidebar-usersettings-width));
   width: var(--sidebar-usersettings-width);
   justify-content: flex-start;
   transition: width var(--sidebar-transition-exit);
-}
+} 
+*/
 
+/*
 .sidebarRegionScroller__1fa7e:hover {
   width: var(--sidebar-hover-width);
   transition: var(--sidebar-transition-entry);
