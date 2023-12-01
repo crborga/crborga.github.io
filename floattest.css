@@ -555,7 +555,7 @@ html #app-mount .layer__2efaa .layer__2efaa  ~ .layer__2efaa  .sidebarRegion__60
   z-index: 2;
 }
 
-.sidebarRegionScroller__1fa7e {
+/* .sidebarRegionScroller__1fa7e {
   position: absolute;
   height: 100%;
   left: calc(100% - var(--sidebar-usersettings-width));
@@ -568,7 +568,7 @@ html #app-mount .layer__2efaa .layer__2efaa  ~ .layer__2efaa  .sidebarRegion__60
   width: var(--sidebar-hover-width);
   transition: var(--sidebar-transition-entry);
 }
-
+*/
 .sidebarRegion__60457 + .contentRegion__0bec1 {
   transition: transform var(--sidebar-transition-exit);
 }
